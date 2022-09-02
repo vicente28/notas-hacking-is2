@@ -42,6 +42,7 @@ koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
 ```
 
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 ## Notas dicionales 
 Usamos el comando "File" seguido del nombre (OJO como el nombre inicia con "-" ponemos "-/ para poder abrirlo") así sabremos que tipo de contenido tiene un archivo. 
 

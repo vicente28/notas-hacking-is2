@@ -15,7 +15,7 @@ bandit10@bandit:~$
 ```
 
 
-o
+ó
 
 ```bash
 bandit10@bandit:~$ python3

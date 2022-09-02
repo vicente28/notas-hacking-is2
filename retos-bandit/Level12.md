@@ -12,7 +12,7 @@ The password is JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 bandit11@bandit:~$
 ```
 
-o
+ó
 
 ```bash
 bandit11@bandit:~$ python3

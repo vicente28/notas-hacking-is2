@@ -5,7 +5,7 @@ Logging in to bandit26 from bandit25 should be fairly easy… The shell for user
 
 ## Datos de acceso 
 bandit24 <-UserName
- VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar<-Password
+VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar <-Password
 
 ## Solución 
 ```bash

@@ -6,6 +6,8 @@ There is a git repository at `ssh://bandit28-git@localhost/home/bandit28-git/re
 Clone the repository and find the password for the next level.
 
 ## Datos de acceso 
+bandit28 <-UserName
+AVanL161y9rsbcJIsFHuw35rjaOM19nR <-Password
 
 ## Solución 
 ```bash

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "retos-bandit/Level32.md",
+            "file": "retos-bandit/Level33.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level32.md",
+                "file": "retos-bandit/Level33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level32.md",
+                "file": "retos-bandit/Level33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level32.md"
+                "file": "retos-bandit/Level33.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "349dc31e6dcdd4c5",
   "lastOpenFiles": [
-    "retos-bandit/Level31.md",
     "retos-bandit/Level32.md",
+    "retos-bandit/Level31.md",
     "retos-bandit/Level33.md",
     "retos-bandit/Level30.md",
     "retos-bandit/Level29.md",
